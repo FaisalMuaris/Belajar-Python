@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 file baru
+=======
+Asep Ganteng
+Dimas Ajleng
+Faisal Muaris
+>>>>>>> 13883ce17679e4847ecf8f5c2d4b36905b12ef3d
