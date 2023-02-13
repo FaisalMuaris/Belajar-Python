@@ -14,18 +14,18 @@ from math import nan
 
 # contoh di aplikasi
 
-while(True):
-    angka = int(input('Masukan angka pembagi: '))
-    try:
-        hasil = 10/angka
-        print(f"hasil = {hasil} ")
-        is_done = input('lanjutkan (y/n)?')
-        if is_done == 'n':
-            break
-    except:
-        print('pembagi nol, silahkan masukan input lagi')
+# while(True):
+#     angka = int(input('Masukan angka pembagi: '))
+#     try:
+#         hasil = 10/angka
+#         print(f"hasil = {hasil} ")
+#         is_done = input('lanjutkan (y/n)?')
+#         if is_done == 'n':
+#             break
+#     except:
+#         print('pembagi nol, silahkan masukan input lagi')
 
-print('akhir dari program 1')
+# print('akhir dari program 1')
 
 # contoh aplikasi untuk membuat file data.txt
 try:
